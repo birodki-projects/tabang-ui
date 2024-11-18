@@ -2,7 +2,7 @@
 {{-- <header class="sticky top-8 inset-x-0 flex flex-wrap z-50 w-full text-sm"> --}}
 <header class="pt-8 inset-x-0 flex flex-wrap z-50 w-full text-sm">
     <nav
-        class="relative max-w-6xl w-full bg-white border border-gray-200 rounded-[2rem] mx-2 py-3 px-4 sm:mx-auto dark:bg-neutral-900 dark:border-neutral-700">
+        class="relative max-w-6xl w-full bg-white border border-gray-200 rounded-[2rem] mx-2 py-3 px-4 sm:mx-auto dark:bg-zinc-600 dark:border-gray-700">
         <div class="flex items-center justify-between">
             <!-- Logo -->
             <div class="flex-shrink-0">
@@ -37,7 +37,7 @@
             <!-- Desktop Menu -->
             <div class="hidden md:flex md:items-center md:gap-x-4">
                 <button type="button"
-                    class="py-2 px-4 inline-flex items-center gap-x-2 text-sm font-medium rounded-xl border border-transparent bg-orange-400 text-white hover:bg-orange-500 disabled:opacity-50 disabled:pointer-events-none">
+                    class="py-2 px-4 inline-flex items-center gap-x-2 text-sm font-medium rounded-xl border border-transparent bg-orange-400 dark:bg-orange-600 text-white hover:bg-orange-500 dark:hover:bg-orange-800 disabled:opacity-50 disabled:pointer-events-none">
                     Log in
                 </button>
                 <button type="button"

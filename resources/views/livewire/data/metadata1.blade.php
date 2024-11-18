@@ -1,6 +1,6 @@
 <!-- resources/views/livewire/data/metadata1.blade.php -->
 <div class="bg-white rounded-lg shadow-lg p-6">
-    <h2 class="text-xl font-semibold text-gray-800 mb-6">Detail Data</h2>
+    <h2 class="text-xl font-semibold text-gray-800 mb-6">Metadata</h2>
 
     <!-- Basic Info Grid -->
     <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">

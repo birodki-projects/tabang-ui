@@ -12,10 +12,11 @@
     @livewireStyles
 </head>
 
-<body class="bg-slate-200 dark:bg-slate-700">
+<body class="bg-neutral-100 dark:bg-zinc-800">
     <main>
         <livewire:header1 />
         {{ $slot }}
+        <livewire:footer1 />
     </main>
     @livewireScripts
 </body>
